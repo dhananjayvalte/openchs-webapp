@@ -9,7 +9,7 @@
     "@material-ui/styles": "^4.2.0",
     "aws-amplify": "^1.1.19",
     "aws-amplify-react": "^2.3.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.1.1",
     "clsx": "^1.0.4",
     "downshift": "^3.2.10",
